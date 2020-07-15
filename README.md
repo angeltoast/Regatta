@@ -18,7 +18,7 @@ WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
 General Public License for more details.
 
-A copy of the GNU General Public License is available from:
-#                 The Free Software Foundation, Inc.
-#                  51 Franklin Street, Fifth Floor
-#                    Boston, MA 02110-1301 USA
+A copy of the GNU General Public License is available by writing to:
+                 The Free Software Foundation, Inc.
+                  51 Franklin Street, Fifth Floor
+                    Boston, MA 02110-1301 USA

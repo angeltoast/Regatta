@@ -2,7 +2,7 @@
 
 No graphics, but an exciting commentary-based game that similates a boat race between Oxford and Cambridge.
 
-Each time it is run, the program generates new teams with varying skills, and offers the option to place a virtual bet on the outcome.
+Each time it is run, the program generates new teams with varying skills, and pauses so you can guess which team will win.
 
 Every race is different, between 250 metres and 1000 metres, with varying tide and random incidents, and commentary in colour for each team.
 
